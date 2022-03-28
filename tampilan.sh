@@ -27,5 +27,5 @@ then
     echo $tam1 | lolcat # tampilan 1
 else
     echo "invalid password" | lolcat
-    sh StaffFinvh.sh
+    sh tampilan.sh
   fi
